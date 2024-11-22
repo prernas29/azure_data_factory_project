@@ -10,3 +10,4 @@ New-AzResourceGroupDeployment
     -TemplateFile .\ch1_arm.json     
     -TemplateParameterFile .\ch1_arm.parameters.json
     -Verbose
+    -Yummy
